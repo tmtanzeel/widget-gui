@@ -1,15 +1,33 @@
-# widget-gui
-Weather widget in javafx
+# Project Title
 
-# You have to include a jar file in classpath which reads json returned by weather and timezone api
-That jar file is java-json.jar
+Weather and time widget in JavaFx 
 
-# The jar file is provided inside a separate folder named jarfiles
+## Getting Started
 
-# Alternatively you can also download a fresh copy of the same from the internet
-https://www.java2s.com/Code/Jar/j/Downloadjavajsonjar.htm
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-# css contains css for the application
-css/Main.css
+### Prerequisites
 
-# images contains icons for the weather condition which is of course subjected to change
+JDK 8 or higher
+
+### Installing
+
+Just complie and run Main.java as usual with java compiler - javac Main.java
+
+
+## Built With
+
+* JavaFX
+
+## Authors
+
+* **Tanzeel Mirza**
+
+## License
+
+Free and open source
+
+## Acknowledgments
+
+* timezonedb
+* weatherapp
