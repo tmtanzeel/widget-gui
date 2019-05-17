@@ -1,6 +1,6 @@
 # Project Title
 
-Weather and time widget in JavaFx 
+Weather + Time widget in JavaFx 
 
 ## Getting Started
 
