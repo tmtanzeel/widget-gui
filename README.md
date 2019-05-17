@@ -1,6 +1,6 @@
 # Project Title
 
-Weather + Time widget in JavaFx 
+Weather+Time widget in JavaFx 
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ Just complie and run Main.java as usual with java compiler - javac Main.java
 
 * css: contains the styling for the application - Main.css
 * images: contains icon for different weather conditions 
-* jar-file: contains the jar file that you have to add to the classpath manually
+* jar-file: contains the jar file that you have to add to the classpath manually - java-json.jar
 
 ## Built With
 
