@@ -14,6 +14,11 @@ JDK 8 or higher
 
 Just complie and run Main.java as usual with java compiler - javac Main.java
 
+### Description
+
+css: contains the styling for the application - Main.css
+images: contains icon for different weather conditions 
+
 
 ## Built With
 
