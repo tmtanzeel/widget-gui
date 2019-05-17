@@ -16,9 +16,9 @@ Just complie and run Main.java as usual with java compiler - javac Main.java
 
 ### Description
 
-css: contains the styling for the application - Main.css
-images: contains icon for different weather conditions 
-
+* css: contains the styling for the application - Main.css
+* images: contains icon for different weather conditions 
+* jar-file: contains the jar file that you have to add to the classpath manually
 
 ## Built With
 
