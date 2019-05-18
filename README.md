@@ -1,6 +1,9 @@
 # Project Title
 
-Weather+Time widget in JavaFx 
+Weather+Time widget in JavaFx
+
+## Screenshot
+![Screenshot](https://user-images.githubusercontent.com/33144278/57965930-e52cf800-7968-11e9-8baf-c3bb59902213.png)
 
 ## Getting Started
 
@@ -19,6 +22,9 @@ Just complie and run Main.java as usual with java compiler - javac Main.java
 * css: contains the styling for the application - Main.css
 * images: contains icon for different weather conditions 
 * jar-file: contains the jar file that you have to add to the classpath manually - java-json.jar
+
+### Change location
+Click on the location icon to change the location. A dialouge box will pop up. Enter city and country there. Country is not mandatory but it is recommended to provide country along with the city to avoid ambiguity.
 
 ## Built With
 
