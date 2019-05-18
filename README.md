@@ -38,6 +38,10 @@ Click on the location icon to change the location. A dialouge box will pop up. E
 
 Free and open source
 
+## Contact
+
+tanzeel.online
+
 ## Acknowledgments
 
 * timezonedb
